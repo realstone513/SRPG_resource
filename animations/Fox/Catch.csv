@@ -1,0 +1,15 @@
+ID,LOOPTYPE (0: Single 1: Move),FPS
+Fox/Catch,1,10
+
+TEXTURE ID,L,T,W,H,W,Y,FlipX,FlipY
+graphics/Fox.png,0,96,32,32,32,32,0,0
+graphics/Fox.png,32,96,32,32,32,32,0,0
+graphics/Fox.png,64,96,32,32,32,32,0,0
+graphics/Fox.png,96,96,32,32,32,32,0,0
+graphics/Fox.png,128,96,32,32,32,32,0,0
+graphics/Fox.png,160,96,32,32,32,32,0,0
+graphics/Fox.png,192,96,32,32,32,32,0,0
+graphics/Fox.png,224,96,32,32,32,32,0,0
+graphics/Fox.png,256,96,32,32,32,32,0,0
+graphics/Fox.png,288,96,32,32,32,32,0,0
+graphics/Fox.png,320,96,32,32,32,32,0,0

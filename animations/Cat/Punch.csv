@@ -1,0 +1,10 @@
+ID,LOOPTYPE (0: Single 1: Move),FPS
+Cat/Punch,1,10
+
+TEXTURE ID,L,T,W,H,W,Y,FlipX,FlipY
+graphics/Cat.png,0,224,32,32,32,32,0,0
+graphics/Cat.png,32,224,32,32,32,32,0,0
+graphics/Cat.png,64,224,32,32,32,32,0,0
+graphics/Cat.png,96,224,32,32,32,32,0,0
+graphics/Cat.png,128,224,32,32,32,32,0,0
+graphics/Cat.png,160,224,32,32,32,32,0,0

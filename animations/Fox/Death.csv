@@ -1,0 +1,11 @@
+ID,LOOPTYPE (0: Single 1: Move),FPS
+Fox/Death,1,10
+
+TEXTURE ID,L,T,W,H,W,Y,FlipX,FlipY
+graphics/Fox.png,0,192,32,32,32,32,0,0
+graphics/Fox.png,32,192,32,32,32,32,0,0
+graphics/Fox.png,64,192,32,32,32,32,0,0
+graphics/Fox.png,96,192,32,32,32,32,0,0
+graphics/Fox.png,128,192,32,32,32,32,0,0
+graphics/Fox.png,160,192,32,32,32,32,0,0
+graphics/Fox.png,192,192,32,32,32,32,0,0
