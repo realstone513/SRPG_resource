@@ -1,0 +1,14 @@
+ID,LOOPTYPE (0: Single 1: Move),FPS,,,,,,
+Player/AttackLeft3,1,10,,,,,,
+,,,,,,,,
+TEXTURE ID,L,T,W,H,X,Y,FlipX,FlipY
+graphics/Adventurer.png,0,384,32,32,32,32,0,0
+graphics/Adventurer.png,32,384,32,32,32,32,0,0
+graphics/Adventurer.png,64,384,32,32,32,32,0,0
+graphics/Adventurer.png,96,384,32,32,32,32,0,0
+graphics/Adventurer.png,128,384,32,32,32,32,0,0
+graphics/Adventurer.png,160,384,32,32,32,32,0,0
+graphics/Adventurer.png,192,384,32,32,32,32,0,0
+graphics/Adventurer.png,224,384,32,32,32,32,0,0
+graphics/Adventurer.png,256,384,32,32,32,32,0,0
+graphics/Adventurer.png,288,384,32,32,32,32,0,0
