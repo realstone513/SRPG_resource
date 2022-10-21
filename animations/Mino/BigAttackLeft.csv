@@ -2,12 +2,12 @@ ID,LOOPTYPE (0: Single 1: Move),FPS
 Mino/BigAttackLeft,1,10
 
 TEXTURE ID,L,T,W,H,W,Y,FlipX,FlipY
-graphics/Minotaurs.png,0,1248,96,96,48,64,0,0
-graphics/Minotaurs.png,96,1248,96,96,48,64,0,0
-graphics/Minotaurs.png,192,1248,96,96,48,64,0,0
-graphics/Minotaurs.png,288,1248,96,96,48,64,0,0
-graphics/Minotaurs.png,384,1248,96,96,48,64,0,0
-graphics/Minotaurs.png,480,1248,96,96,48,64,0,0
-graphics/Minotaurs.png,576,1248,96,96,48,64,0,0
-graphics/Minotaurs.png,672,1248,96,96,48,64,0,0
-graphics/Minotaurs.png,768,1248,96,96,48,64,0,0
+graphics/Minotaur.png,0,1248,96,96,48,64,0,0
+graphics/Minotaur.png,96,1248,96,96,48,64,0,0
+graphics/Minotaur.png,192,1248,96,96,48,64,0,0
+graphics/Minotaur.png,288,1248,96,96,48,64,0,0
+graphics/Minotaur.png,384,1248,96,96,48,64,0,0
+graphics/Minotaur.png,480,1248,96,96,48,64,0,0
+graphics/Minotaur.png,576,1248,96,96,48,64,0,0
+graphics/Minotaur.png,672,1248,96,96,48,64,0,0
+graphics/Minotaur.png,768,1248,96,96,48,64,0,0
