@@ -1,16 +1,16 @@
 ID,LOOPTYPE (0: Single 1: Move),FPS,,,,,,
 Mino/WheelWindRight,1,10,,,,,,
-,,,,,,,,
+
 TEXTURE ID,L,T,W,H,W,Y,FlipX,FlipY
-graphics/Minotaurs.png,0,576,96,96,96,96,0,0
-graphics/Minotaurs.png,96,576,96,96,96,96,0,0
-graphics/Minotaurs.png,192,576,96,96,96,96,0,0
-graphics/Minotaurs.png,288,576,96,96,96,96,0,0
-graphics/Minotaurs.png,384,576,96,96,96,96,0,0
-graphics/Minotaurs.png,480,576,96,96,96,96,0,0
-graphics/Minotaurs.png,576,576,96,96,96,96,0,0
-graphics/Minotaurs.png,672,576,96,96,96,96,0,0
-graphics/Minotaurs.png,768,576,96,96,96,96,0,0
-graphics/Minotaurs.png,0,672,96,96,96,96,0,0
-graphics/Minotaurs.png,96,672,96,96,96,96,0,0
-graphics/Minotaurs.png,192,672,96,96,96,96,0,0
+graphics/Minotaurs.png,0,576,96,96,48,64,0,0
+graphics/Minotaurs.png,96,576,96,96,48,64,0,0
+graphics/Minotaurs.png,192,576,96,96,48,64,0,0
+graphics/Minotaurs.png,288,576,96,96,48,64,0,0
+graphics/Minotaurs.png,384,576,96,96,48,64,0,0
+graphics/Minotaurs.png,480,576,96,96,48,64,0,0
+graphics/Minotaurs.png,576,576,96,96,48,64,0,0
+graphics/Minotaurs.png,672,576,96,96,48,64,0,0
+graphics/Minotaurs.png,768,576,96,96,48,64,0,0
+graphics/Minotaurs.png,0,672,96,96,48,64,0,0
+graphics/Minotaurs.png,96,672,96,96,48,64,0,0
+graphics/Minotaurs.png,192,672,96,96,48,64,0,0

@@ -2,10 +2,10 @@ ID,LOOPTYPE (0: Single 1: Move),FPS,,,,,,
 Player/DeathRight,1,10,,,,,,
 ,,,,,,,,
 TEXTURE ID,L,T,W,H,X,Y,FlipX,FlipY
-graphics/Adventurer.png,0,224,32,32,32,32,0,0
-graphics/Adventurer.png,32,224,32,32,32,32,0,0
-graphics/Adventurer.png,64,224,32,32,32,32,0,0
-graphics/Adventurer.png,96,224,32,32,32,32,0,0
-graphics/Adventurer.png,128,224,32,32,32,32,0,0
-graphics/Adventurer.png,160,224,32,32,32,32,0,0
-graphics/Adventurer.png,192,224,32,32,32,32,0,0
+graphics/Adventurer.png,0,224,32,32,16,32,0,0
+graphics/Adventurer.png,32,224,32,32,16,32,0,0
+graphics/Adventurer.png,64,224,32,32,16,32,0,0
+graphics/Adventurer.png,96,224,32,32,16,32,0,0
+graphics/Adventurer.png,128,224,32,32,16,32,0,0
+graphics/Adventurer.png,160,224,32,32,16,32,0,0
+graphics/Adventurer.png,192,224,32,32,16,32,0,0

@@ -2,17 +2,17 @@ ID,LOOPTYPE (0: Single 1: Move),FPS
 Fox/Idle2,1,10
 
 TEXTURE ID,L,T,W,H,W,Y,FlipX,FlipY
-graphics/Fox.png,0,32,32,32,32,32,0,0
-graphics/Fox.png,32,32,32,32,32,32,0,0
-graphics/Fox.png,64,32,32,32,32,32,0,0
-graphics/Fox.png,96,32,32,32,32,32,0,0
-graphics/Fox.png,128,32,32,32,32,32,0,0
-graphics/Fox.png,160,32,32,32,32,32,0,0
-graphics/Fox.png,192,32,32,32,32,32,0,0
-graphics/Fox.png,224,32,32,32,32,32,0,0
-graphics/Fox.png,256,32,32,32,32,32,0,0
-graphics/Fox.png,288,32,32,32,32,32,0,0
-graphics/Fox.png,320,32,32,32,32,32,0,0
-graphics/Fox.png,352,32,32,32,32,32,0,0
-graphics/Fox.png,384,32,32,32,32,32,0,0
-graphics/Fox.png,416,32,32,32,32,32,0,0
+graphics/Fox.png,0,32,32,32,16,32,0,0
+graphics/Fox.png,32,32,32,32,16,32,0,0
+graphics/Fox.png,64,32,32,32,16,32,0,0
+graphics/Fox.png,96,32,32,32,16,32,0,0
+graphics/Fox.png,128,32,32,32,16,32,0,0
+graphics/Fox.png,160,32,32,32,16,32,0,0
+graphics/Fox.png,192,32,32,32,16,32,0,0
+graphics/Fox.png,224,32,32,32,16,32,0,0
+graphics/Fox.png,256,32,32,32,16,32,0,0
+graphics/Fox.png,288,32,32,32,16,32,0,0
+graphics/Fox.png,320,32,32,32,16,32,0,0
+graphics/Fox.png,352,32,32,32,16,32,0,0
+graphics/Fox.png,384,32,32,32,16,32,0,0
+graphics/Fox.png,416,32,32,32,16,32,0,0

@@ -2,11 +2,11 @@ ID,LOOPTYPE (0: Single 1: Move),FPS
 Cat/Threat,1,10
 
 TEXTURE ID,L,T,W,H,W,Y,FlipX,FlipY
-graphics/Cat.png,0,288,32,32,32,32,0,0
-graphics/Cat.png,32,288,32,32,32,32,0,0
-graphics/Cat.png,64,288,32,32,32,32,0,0
-graphics/Cat.png,96,288,32,32,32,32,0,0
-graphics/Cat.png,128,288,32,32,32,32,0,0
-graphics/Cat.png,160,288,32,32,32,32,0,0
-graphics/Cat.png,192,288,32,32,32,32,0,0
-graphics/Cat.png,224,288,32,32,32,32,0,0
+graphics/Cat.png,0,288,32,32,16,32,0,0
+graphics/Cat.png,32,288,32,32,16,32,0,0
+graphics/Cat.png,64,288,32,32,16,32,0,0
+graphics/Cat.png,96,288,32,32,16,32,0,0
+graphics/Cat.png,128,288,32,32,16,32,0,0
+graphics/Cat.png,160,288,32,32,16,32,0,0
+graphics/Cat.png,192,288,32,32,16,32,0,0
+graphics/Cat.png,224,288,32,32,16,32,0,0
