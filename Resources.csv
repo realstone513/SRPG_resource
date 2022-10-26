@@ -21,6 +21,7 @@ animations/Player/MoveRight.csv,3
 animations/Player/AttackRight1.csv,3
 animations/Player/AttackRight2.csv,3
 animations/Player/AttackRight3.csv,3
+animations/Player/SpecialRight.csv,3
 animations/Player/JumpRight.csv,3
 animations/Player/HitRight.csv,3
 animations/Player/DeathRight.csv,3
@@ -28,6 +29,7 @@ animations/Player/MoveLeft.csv,3
 animations/Player/AttackLeft1.csv,3
 animations/Player/AttackLeft2.csv,3
 animations/Player/AttackLeft3.csv,3
+animations/Player/SpecialLeft.csv,3
 animations/Player/JumpLeft.csv,3
 animations/Player/HitLeft.csv,3
 animations/Player/DeathLeft.csv,3

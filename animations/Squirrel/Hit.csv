@@ -1,5 +1,5 @@
 ID,LOOPTYPE (0: Single 1: Move),FPS
-Squirrel/Hit,1,10
+Squirrel/Hit,0,10
 
 TEXTURE ID,L,T,W,H,W,Y,FlipX,FlipY
 graphics/Squirrel.png,0,160,32,32,16,32,0,0

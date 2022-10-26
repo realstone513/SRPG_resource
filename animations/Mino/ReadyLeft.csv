@@ -1,5 +1,5 @@
 ID,LOOPTYPE (0: Single 1: Move),FPS
-Mino/ReadyLeft,1,10
+Mino/ReadyLeft,0,10
 
 TEXTURE ID,L,T,W,H,W,Y,FlipX,FlipY
 graphics/Minotaur.png,0,1152,96,96,48,64,0,0

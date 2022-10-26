@@ -1,5 +1,5 @@
 ID,LOOPTYPE (0: Single 1: Move),FPS
-Cat/Threat,1,10
+Cat/Threat,0,10
 
 TEXTURE ID,L,T,W,H,W,Y,FlipX,FlipY
 graphics/Cat.png,0,288,32,32,16,32,0,0

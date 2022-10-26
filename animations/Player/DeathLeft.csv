@@ -1,5 +1,5 @@
 ID,LOOPTYPE (0: Single 1: Move),FPS,,,,,,
-Player/DeathLeft,1,10,,,,,,
+Player/DeathLeft,0,10,,,,,,
 ,,,,,,,,
 TEXTURE ID,L,T,W,H,X,Y,FlipX,FlipY
 graphics/Adventurer.png,0,480,32,32,16,32,0,0

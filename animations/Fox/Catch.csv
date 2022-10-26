@@ -1,5 +1,5 @@
 ID,LOOPTYPE (0: Single 1: Move),FPS
-Fox/Catch,1,10
+Fox/Catch,0,10
 
 TEXTURE ID,L,T,W,H,W,Y,FlipX,FlipY
 graphics/Fox.png,0,96,32,32,16,32,0,0
