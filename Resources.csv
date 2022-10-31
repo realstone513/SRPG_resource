@@ -2,6 +2,7 @@ id,type
 graphics/Adventurer.png,0
 graphics/Cat.png,0
 graphics/ForestTileSet.png,0
+graphics/DungeonTileSet.png,0
 graphics/Fox.png,0
 graphics/Minotaur.png,0
 graphics/Squirrel.png,0
@@ -16,6 +17,10 @@ graphics/damageIcon.png,0
 graphics/rangeIcon.png,0
 graphics/UIBackground.png,0
 fonts/DNFBitBitTTF.ttf,1
+sound/player_attack.wav,2
+sound/peace_bgm.wav,2
+sound/boss_bgm.wav,2
+sound/player_hit.wav,2
 animations/Player/Idle.csv,3
 animations/Player/MoveRight.csv,3
 animations/Player/AttackRight1.csv,3
